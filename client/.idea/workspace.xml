@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ea5e452a-a3a3-4231-a009-e3bb91f3e4c4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lvEmsnvUkSYZVVWmtcbxFvdtjr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../asynchus/asyncnys" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="FirefoxRemoteDebugType" editBeforeRun="true">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea5e452a-a3a3-4231-a009-e3bb91f3e4c4" name="Default Changelist" comment="" />
+      <created>1608469327264</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608469327264</updated>
+      <workItem from="1608469329698" duration="2048000" />
+      <workItem from="1608477801300" duration="2764000" />
+      <workItem from="1608532305592" duration="1967000" />
+      <workItem from="1608548827601" duration="5626000" />
+      <workItem from="1608563839137" duration="12132000" />
+      <workItem from="1608637587572" duration="2135000" />
+      <workItem from="1608650837742" duration="6581000" />
+      <workItem from="1608710946363" duration="35000" />
+      <workItem from="1608740917281" duration="11542000" />
+      <workItem from="1608830394133" duration="7675000" />
+      <workItem from="1608886837204" duration="599000" />
+      <workItem from="1608894753412" duration="2407000" />
+      <workItem from="1608909147168" duration="14026000" />
+      <workItem from="1608972089528" duration="715000" />
+      <workItem from="1608974213389" duration="2554000" />
+      <workItem from="1609863205070" duration="13000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
