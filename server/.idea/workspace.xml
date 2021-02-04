@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9ce9623b-9b41-42f8-afb0-7c7edaeaf0a3" name="Default Changelist" comment="" />
+    <list default="true" id="9ce9623b-9b41-42f8-afb0-7c7edaeaf0a3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dbhandle.js" beforeDir="false" afterPath="$PROJECT_DIR$/dbhandle.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,7 +87,8 @@
       <workItem from="1608909208385" duration="8548000" />
       <workItem from="1608968051197" duration="1962000" />
       <workItem from="1608974220498" duration="4046000" />
-      <workItem from="1610278413840" duration="164000" />
+      <workItem from="1610278413840" duration="2178000" />
+      <workItem from="1612446366159" duration="64000" />
     </task>
     <servers />
   </component>
@@ -101,6 +105,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

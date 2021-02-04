@@ -51,15 +51,6 @@ const mainPage = async () => {
   }
 }
 
-const exists = async (userLogin) => {
-  try {
-    const pool = await sql.connect(config);
-    return (await pool.query(`SELECT dbo.Authentify('${userLogin}')`)).recordset[0][''];
-  } catch (e) {
-    throw new Error('Database bad request: ' + e.toString())
-  }
-}
-
 const postReview = async (data) => {
   try {
     const pool = await sql.connect(config);
